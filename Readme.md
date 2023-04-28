@@ -1,4 +1,4 @@
-Exploration of redis as a vector database for similarities. This is a follow up for https://github.com/hpunetha/weaviate-jupyter where I used weaviate for finding vector similarity.
+Exploration of redis as a vector database for finding similarities. This is a follow up for https://github.com/hpunetha/weaviate-jupyter where I used weaviate for finding vector similarity.
 In this repo, I have configured Redis with similiar use-case, i.e to find similiar images by using vector similiarity search in redis via langchain. The vectors are computed using Resnet18
 
 ## Setup Instructions
