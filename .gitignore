@@ -1,0 +1,7 @@
+redisinsight/*
+notebook/.jupyter/*
+notebook/.cache/*
+notebook/.config/*
+notebook/.ipython/*
+notebook/.jupyter/*
+notebook/.local/*
