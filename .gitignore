@@ -5,3 +5,5 @@ notebook/.config/*
 notebook/.ipython/*
 notebook/.jupyter/*
 notebook/.local/*
+notebook/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
